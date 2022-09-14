@@ -11,5 +11,5 @@
 [![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-464646?style=flat-square&logo=GitHub%20actions)](https://github.com/features/actions)
 [![Yandex.Cloud](https://img.shields.io/badge/-Yandex.Cloud-464646?style=flat-square&logo=Yandex.Cloud)](https://cloud.yandex.ru/)
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/145s3kBsTZGliM/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/145s3kBsTZGliM/giphy.gif" width="500"/>
 </div>
