@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Xenia Mal
-- 🔨 I'm backend developer on Python
-- 🌱 I’m also currently interested artificial intelligence 
+- 👋 Hi, there, I’m Xenia Mal
+- 🔨 Backend developer on Python
+- 🌱 Also interested in artificial intelligence 
 - 📫 How to reach me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasxenia)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wrkvxn@ya.ru)
