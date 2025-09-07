@@ -1,4 +1,4 @@
-- 👋 Hi, there, I’m Xenia Mal
+- 👋 Hi, there, I’m Xenia M
 - 🔨 Backend developer on Python
   
 - 📫 How to reach me:
